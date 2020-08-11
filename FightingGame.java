@@ -4,7 +4,6 @@ import java.util.*;
 public class FightingGame {
    public static void main(String args[] ) throws Exception {
 
-	//Write code here
    int T, N;
    Scanner sc = new Scanner(System.in);
    T = sc.nextInt();
